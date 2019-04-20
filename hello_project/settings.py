@@ -25,7 +25,7 @@ SECRET_KEY = 'oj5bp*++*su(#6@opt!32n+&$11-sn2mub&@3z043!8!q_q%3^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'production']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
